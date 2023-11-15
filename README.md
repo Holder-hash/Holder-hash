@@ -1,12 +1,12 @@
-Привет! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Георгий
+Hello! My name is Georgiy
 ===============================================================================================================================
 
-Обо мне
+About me
 -------
 
-Я начинающий фронтенд разработчик. <br> Мною пройдены курсы от 1T Sprint (Frontend), сейчас прохожу курс от университета "Синергия", в котором планирую овладеть фреймворком React. Так же обучаюсь в колледже по it специальности (3 курс). <br><br> У меня есть коммерческий опыт разработки, я беру фриланс заказы. Умею работать на WordPress. <br><br> Мне нравится JavaScript, способен сделать простую браузерную игру или веб приложение. Сейчас погружаюсь в JS глубже, так же сильно интересует React. <br><br> Очень амбициозен и постоянно учусь :) <br> Открыт к сотрудничеству!
+I'm a beginner front-end developer. <br> I have completed courses from 1T Sprint (Frontend), and now I am taking a course from Synergy University, where I plan to master the React framework. I am also studying at college in the IT specialty (3rd year). <br><br> I have commercial development experience, I take freelance orders. I can work on WordPress. <br><br> I like JavaScript, it can make a simple browser game or web application. Now I’m diving deeper into JS, I’m also very interested in React. <br><br> Very ambitious and constantly learning :) <br> Open to cooperation!
 
-### Владею
+I own
 
 
 <p align="left">
