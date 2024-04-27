@@ -9,7 +9,7 @@ I completed the 1T Sprint (Frontend) course, and am now taking a course from Syn
 <br><br>
 I have experience in commercial development, accepted freelance orders, and now work for a company.
 <br><br>
-I’m writing in React, now I’m diving into Angular, and I also worked with WordPress.
+I’m writing in React, now I’m diving into Angular, and I also worked with WordPress. I can write a simple backend in PHP
 <br><br>
 Very ambitious and constantly learning :)
 <br>
