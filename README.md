@@ -6,11 +6,11 @@ About me
 
 I'm a frontend developer.
 I completed the 1T Sprint (Frontend) course, and am now taking a course from Synergy University. I am also studying at college, majoring in IT (3rd year).
-<br>
+<br><br>
 I have experience in commercial development, accepted freelance orders, and now work for a company.
-<br>
+<br><br>
 I’m writing in React, now I’m diving into Angular, and I also worked with WordPress.
-<br>
+<br><br>
 Very ambitious and constantly learning :)
 Open to cooperation!
 
