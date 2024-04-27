@@ -4,7 +4,7 @@ Hello! My name is Georgiy
 About me
 -------
 
-I'm a frontend developer.
+I'm a frontend developer.<br>
 I completed the 1T Sprint (Frontend) course, and am now taking a course from Synergy University. I am also studying at college, majoring in IT (3rd year).
 <br><br>
 I have experience in commercial development, accepted freelance orders, and now work for a company.
@@ -12,6 +12,7 @@ I have experience in commercial development, accepted freelance orders, and now 
 I’m writing in React, now I’m diving into Angular, and I also worked with WordPress.
 <br><br>
 Very ambitious and constantly learning :)
+<br>
 Open to cooperation!
 
 <h2 style="font-size: 24px">I own</h2>
