@@ -5,7 +5,7 @@ About me
 -------
 
 I'm a frontend developer.<br>
-I completed the 1T Sprint (Frontend) course, and am now taking a course from Synergy University. I am also studying at college, majoring in IT (4rd year).
+I completed the 1T Sprint (Frontend) course and course from Synergy University (Frontend + React). I am also studying at college, majoring in IT (4rd year).
 <br><br>
 I have experience in commercial development, accepted freelance orders, and now work for a company.
 <br><br>
