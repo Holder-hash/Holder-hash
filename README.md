@@ -9,7 +9,7 @@ I completed the 1T Sprint (Frontend) course and course from Synergy University (
 <br><br>
 I have experience in commercial development, accepted freelance orders, and now work for a company.
 <br><br>
-I’m writing in React, now I’m diving into Angular, and I also worked with WordPress. I can write a simple backend in PHP
+I used to work with React, but recently I started working with Angular 16+, and I also worked with WordPress. I can write a simple backend in PHP
 <br><br>
 Very ambitious and constantly learning :)
 <br>
